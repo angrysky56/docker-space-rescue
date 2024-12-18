@@ -1,0 +1,4 @@
+select vdisk file="F:\wsl\DockerDesktopWSL\data\ext4.vhdx"
+attach vdisk
+detach vdisk
+exit
